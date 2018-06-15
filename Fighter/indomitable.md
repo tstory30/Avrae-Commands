@@ -19,8 +19,7 @@ Subtracts 1 from "Indomitable" counter.
 ### Usage
 
 
-`
-`!indomitable``
+``!indomitable``
 
 ### Setup
 
