@@ -56,4 +56,4 @@ If you are multiclassing and you are not using a DiceCloud sheet, run the follow
 !cvar FighterLevel $lvl$
 ```
 
-**You must run this command every time you gain a fighter level.** If you do not do this, the alias will use your total level instead of your Fighter level. This may cause problems in your aliases.```
+**You must run this command every time you gain a fighter level.** ```If you do not do this, the alias will use your total level instead of your Fighter level. This may cause problems in your aliases.```
