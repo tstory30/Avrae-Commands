@@ -38,5 +38,3 @@ Run the command in the **Code** section. It will automatically setup counters an
 **``!cvar embedimage true / false``** - Enables / disables whether a character's image is automatically embedded.
 
 **``!cvar showpage true / false``** - Enables / disables whether subjects and page numbers are displayed.
-e{|]��
-
